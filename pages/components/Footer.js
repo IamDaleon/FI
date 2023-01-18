@@ -3,83 +3,83 @@ import React from 'react'
 const Footer = () => {
   return (
     <>
-        <footer class="text-gray-600 bg-gray-300 body-font">
+        <footer class="text-gray-400 bg-zinc-700 body-font">
         <div class="container px-4 py-6 mx-auto">
             <div class="flex flex-wrap md:text-left text-center order-first">
             <div class="lg:w-1/4 md:w-1/2 w-full px-4">
-                <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">SHOP</h2>
+                <h2 class="title-font font-medium text-white tracking-widest text-sm mb-3">SHOP</h2>
                 <nav class="list-none mb-10">
                 <li>
-                    <a class="text-gray-600 hover:text-gray-800">Chief Kratom</a>
+                    <a class="text-gray-400 hover:text-gray-200">Chief Kratom</a>
                 </li>
                 <li>
-                    <a class="text-gray-600 hover:text-gray-800">O.P.M.S</a>
+                    <a class="text-gray-400 hover:text-gray-200">O.P.M.S</a>
                 </li>
                 <li>
-                    <a class="text-gray-600 hover:text-gray-800">Remarkable Herbs</a>
+                    <a class="text-gray-400 hover:text-gray-200">Remarkable Herbs</a>
                 </li>
                 <li>
-                    <a class="text-gray-600 hover:text-gray-800">XXX Kratom</a>
+                    <a class="text-gray-400 hover:text-gray-200">XXX Kratom</a>
                 </li>
                 <li>
-                    <a class="text-gray-600 hover:text-gray-800">Incense</a>
+                    <a class="text-gray-400 hover:text-gray-200">Incense</a>
                 </li>
                 <li>
-                    <a class="text-gray-600 hover:text-gray-800">Smudge</a>
+                    <a class="text-gray-400 hover:text-gray-200">Smudge</a>
                 </li>
                 </nav>
             </div>
             <div class="lg:w-1/4 md:w-1/2 w-full px-4">
-                <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">INFO</h2>
+                <h2 class="title-font font-medium text-white tracking-widest text-sm mb-3">INFO</h2>
                 <nav class="list-none mb-10">
                 <li>
-                    <a class="text-gray-600 hover:text-gray-800">Careers at FastIncense</a>
+                    <a class="text-gray-400 hover:text-gray-200">Careers at FastIncense</a>
                 </li>
                 <li>
-                    <a class="text-gray-600 hover:text-gray-800">About FastIncense</a>
+                    <a class="text-gray-400 hover:text-gray-200">About FastIncense</a>
                 </li>
                 <li>
-                    <a class="text-gray-600 hover:text-gray-800">Sustainability</a>
+                    <a class="text-gray-400 hover:text-gray-200">Sustainability</a>
                 </li>
                 <li>
-                    <a class="text-gray-600 hover:text-gray-800">Press</a>
+                    <a class="text-gray-400 hover:text-gray-200">Press</a>
                 </li>
                 <li>
-                    <a class="text-gray-600 hover:text-gray-800">Investors Relations</a>
+                    <a class="text-gray-400 hover:text-gray-200">Investors Relations</a>
                 </li>
                 <li>
-                    <a class="text-gray-600 hover:text-gray-800">Product Verifier</a>
+                    <a class="text-gray-400 hover:text-gray-200">Product Verifier</a>
                 </li>
                 </nav>
             </div>
             <div class="lg:w-1/4 md:w-1/2 w-full px-4">
-                <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">TERMS AND CONDITIONS</h2>
+                <h2 class="title-font font-medium text-white tracking-widest text-sm mb-3">TERMS AND CONDITIONS</h2>
                 <nav class="list-none mb-10">
                 <li>
-                    <a class="text-gray-600 hover:text-gray-800">FAQ's</a>
+                    <a class="text-gray-400 hover:text-gray-200">FAQ's</a>
                 </li>
                 <li>
-                    <a class="text-gray-600 hover:text-gray-800">Privacy Policy</a>
+                    <a class="text-gray-400 hover:text-gray-200">Privacy Policy</a>
                 </li>
                 <li>
-                    <a class="text-gray-600 hover:text-gray-800">Refund & Return Policy</a>
+                    <a class="text-gray-400 hover:text-gray-200">Refund & Return Policy</a>
                 </li>
                 <li>
-                    <a class="text-gray-600 hover:text-gray-800">FDA Disclaimer</a>
+                    <a class="text-gray-400 hover:text-gray-200">FDA Disclaimer</a>
                 </li>
                 <li>
-                    <a class="text-gray-600 hover:text-gray-800">Affiliate Program</a>
+                    <a class="text-gray-400 hover:text-gray-200">Affiliate Program</a>
                 </li>
                 <li>
-                    <a class="text-gray-600 hover:text-gray-800">Sitemap</a>
+                    <a class="text-gray-400 hover:text-gray-200">Sitemap</a>
                 </li>
                 </nav>
             </div>
             <div class="lg:w-1/4 md:w-1/2 w-full px-4">
-                <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">SIGN UP NOW!</h2>
+                <h2 class="title-font font-medium text-white tracking-widest text-sm mb-3">SIGN UP NOW!</h2>
                 <div class="flex xl:flex-nowrap md:flex-nowrap lg:flex-wrap flex-wrap justify-center items-end md:justify-start">
                 <div class="relative w-40 sm:w-auto xl:mr-4 lg:mr-0 sm:mr-4 mr-2">
-                    <label htmlFor="footer-field" class="leading-7 text-sm text-gray-600">Join now and receive FREE SHIPPING on your next purchase!</label>
+                    <label htmlFor="footer-field" class="leading-7 text-sm text-gray-400">Join now and receive FREE SHIPPING on your next purchase!</label>
                     <input type="text" id="footer-field" name="footer-field" class="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:bg-transparent focus:ring-2 focus:ring-green-200 focus:border-green-500 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out" />
                 </div>
                 <button class="lg:mt-2 xl:mt-0 flex-shrink-0 inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded">Button</button>
@@ -87,7 +87,7 @@ const Footer = () => {
             </div>
             </div>
             </div>
-        <div className='text-xs text-center px-24 text-white bg-gray-400'>
+        <div className='text-xs text-center px-24 text-white bg-zinc-900'>
                 <br />
                 <p>
                     <span className="font-semibold">Our products are not for use by or sale to persons under 18.</span> 

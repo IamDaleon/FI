@@ -1,5 +1,6 @@
 import ByBrand from "./components/ByBrand";
 import ByCategory from "./components/ByCategory";
+import ByType from "./components/ByType";
 import Cta from "./components/Cta";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
@@ -14,6 +15,7 @@ export default function Home() {
       <Navbar />
       </div>
       <Slider />
+      <ByType />
       <Cta />
       <ByBrand />
       <Testimonials />
